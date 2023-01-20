@@ -283,6 +283,25 @@ HEAD 指针指向 master 分支，master 分支指向 first 版本，
 ![img](assets/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA55Sf5ZG95piv5pyJ5YWJ55qE,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center-165252834142453.png)
 
 ## 5 Git 团队协作机制
+
+### 5.2 Github
+
+* 上传
+
+``` shell
+git init
+git add []
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Prokuon/[].git
+git push -u origin main
+# Username for 'https://github.com': Prokuon
+# Password for 'https://Prokuon@github.com': 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
+git config --global credential.helper store
+```
+
+* 下载
+
 ### 5.1 团队内协作
 
 
