@@ -1,0 +1,27 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "communityPluginSortOrder": "download",
+  "promptDelete": true,
+  "readableLineLength": true,
+  "attachmentFolderPath": "./assets",
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ],
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "newLinkFormat": "relative",
+  "newFileLocation": "root",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
