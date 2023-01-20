@@ -304,7 +304,7 @@ git config --global credential.helper store
 * 下载
 
 ``` shell
-git 
+git pull origin main
 ```
 
 
