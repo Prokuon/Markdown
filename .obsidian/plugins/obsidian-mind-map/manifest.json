@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "id": "obsidian-mind-map",
   "name": "Mind Map",
@@ -5,4 +6,13 @@
   "description": "A plugin to preview notes as Markmap mind maps",
   "isDesktopOnly": false,
   "js": "main.js"
+=======
+{
+  "id": "obsidian-mind-map",
+  "name": "Mind Map",
+  "version": "1.1.0",
+  "description": "A plugin to preview notes as Markmap mind maps",
+  "isDesktopOnly": false,
+  "js": "main.js"
+>>>>>>> 4bea1f75b05779b336528df215d239aacab25ebb
 }
