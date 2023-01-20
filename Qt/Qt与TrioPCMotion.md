@@ -1,0 +1,2 @@
+- [(15条消息) Qt开发Trio配置步骤_冯Jungle的博客-CSDN博客](https://fengjungle.blog.csdn.net/article/details/82661228)
+- [(16条消息) QT 找不到QAxObject 文件_佳儿小菜鸟的博客-CSDN博客_qaxobject找不到](https://blog.csdn.net/m0_47500475/article/details/107716511)
