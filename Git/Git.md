@@ -303,6 +303,12 @@ git config --global credential.helper store
 
 * 下载
 
+``` shell
+git 
+```
+
+
+
 ### 5.1 团队内协作
 
 
