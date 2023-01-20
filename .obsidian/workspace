@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "1519938118d7c3cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a9ee673e5989fa8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Git/Git.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77b674b389423f2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ac4c4b92fd54b2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d985fd16cef4d78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "859f9f83e9df8c08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 172
+  },
+  "right": {
+    "id": "a0623afd709cb2f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "787ead7e06c63dd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bea8f52e90428426",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b414621601a15739",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b23f79218622690",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/Git.md"
+              }
+            }
+          },
+          {
+            "id": "e38c5d9c32cbfc08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git/Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24e2a0600278a90d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255,
+    "collapsed": true
+  },
+  "active": "6a9ee673e5989fa8",
+  "lastOpenFiles": [
+    "assets/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA55Sf5ZG95piv5pyJ5YWJ55qE,size_20,color_FFFFFF,t_70,g_se,x_16.md",
+    "Git/Git.md",
+    "操作系统/操作系统.md",
+    "数据结构/数据结构.md",
+    "Leetcode/Leetcode.md",
+    "MySQL/MySQL.md",
+    "Cpp/入门教程/第1阶段C++ 匠心之作 从0到1入门资料/C++基础入门讲义/C++基础入门.md",
+    "软件设计师/应用技术.md",
+    "软件设计师/基础知识.md",
+    "Cpp/入门教程/第3阶段-C++核心编程 资料/讲义/C++核心编程.md"
+  ]
+}
