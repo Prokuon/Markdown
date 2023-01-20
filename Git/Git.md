@@ -294,6 +294,7 @@ git add []
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Prokuon/[].git
+# git remote rm origin
 git push -u origin main
 # Username for 'https://github.com': Prokuon
 # Password for 'https://Prokuon@github.com': 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
