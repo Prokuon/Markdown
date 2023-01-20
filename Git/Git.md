@@ -297,7 +297,7 @@ git remote add origin https://github.com/Prokuon/[].git
 # git remote rm origin
 git push -u origin main
 # Username for 'https://github.com': Prokuon
-# Password for 'https://Prokuon@github.com': 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
+# Password for 'https://Prokuon@github.com': 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  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
 git config --global credential.helper store
 ```
 
