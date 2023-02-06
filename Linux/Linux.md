@@ -3788,7 +3788,7 @@ mime ^text,  label pager  = "$PAGER" -- "$@"
 
 
 
-#### nvim
+#### neovim
 
 文本编辑器
 
@@ -3819,4 +3819,39 @@ chmod u+rw ~/.poshthemes/*.omp.*
 rm ~/.poshthemes/themes.zip
 ```
 
->>>>>>> 90ec3a4511a0cdf137e7775c31d0a4e371431fa6
+#### bsdgames
+
+#### setxkbmap
+
+`setxkbmap -option caps:swapescape`
+
+```shell
+grp:ctrls_toggle     Both Ctrl keys together
+
+grp:ctrl_shift_toggle Ctrl+Shift
+
+grp:ctrl_alt_toggle  Alt+Ctrl
+
+ctrl:nocaps          Caps Lock as Ctrl
+
+ctrl:lctrl_meta      Left Ctrl as Meta
+
+ctrl:swapcaps        Swap Ctrl and Caps Lock
+
+ctrl:ac_ctrl         At left of 'A'
+
+ctrl:aa_ctrl         At bottom left
+
+ctrl:rctrl_ralt      Right Ctrl as Right Alt
+
+ctrl:menu_rctrl      Menu as Right Ctrl
+
+ctrl:ctrl_ralt       Right Alt as Right Ctrl
+
+caps:ctrl_modifier   Make Caps Lock an additional Control but keep the Caps_Lock keysym
+
+altwin:ctrl_win      Control is mapped to Win keys (and the usual Ctrl keys)
+
+  altwin:ctrl_alt_win  Control is mapped to Alt keys, Alt is mapped to Win keys
+
+terminate:ctrl_alt_bksp Control + Alt + Backspace

@@ -909,7 +909,7 @@
        sudo nginx -s reload
        ```
 
-   - 访问地址: <http://192.168.80.254/hello/reg.html> 
+   - 访问地址: <http://192. 168.80.254/hello/reg.html> 
 
      - hello是什么?
 
@@ -955,7 +955,7 @@
 > 1. 需要客户端 - 1个
 >    - Window中的浏览器作为客户端 
 > 2. 反向代理服务器 -> 1个
->    - window作为反向代理服务器
+>    - windows作为反向代理服务器
 > 3. web服务器 -> 2个
 >    - ubuntu - robin: 192.168.247.135
 >    - ubuntu - luffy : 192.168.26.250

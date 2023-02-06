@@ -122,5 +122,33 @@
 * `:r FILENAME` 可提取磁盘文件 FILENAME 并将其插入到当前文件的光标位置后面
 * `:r !dir` 可以读取 dir 命令的输出并将其放置到当前文件的光标位置后面
 
-### 第06章
+## 第06章
 
+1. 设定tab的位置
+   `:set tabstop=4`
+
+2. 输入tab时自动将其转化为空格
+
+   `:set expandtab`
+
+   > 如果此时需要输入真正的tab，则输入Ctrl+V, tab，在windows下是Ctrl+Q, tab
+
+3. 将已存在的tab都转化为空格
+
+   `:retab `
+
+4. 显示空格
+
+   `:set listchars=trail:-`
+
+5. 显示符号
+
+   `:set list`
+
+6. 去除所有符号
+
+   `:set nolist`
+
+7. 清除行尾空格
+
+   `:%s= *$==`
