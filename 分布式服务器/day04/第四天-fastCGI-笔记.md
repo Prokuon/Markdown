@@ -173,7 +173,7 @@
 
 ### 3.2 fastCGI
 
-> 快速通用网关接口（Fast Common Gateway Interface／FastCGI）是[通用网关接口](http://zh.wikipedia.org/wiki/%E9%80%9A%E7%94%A8%E7%BD%91%E5%85%B3%E6%8E%A5%E5%8F%A3)（CGI）的改进，描述了客户端和服务器程序之间传输数据的一种标准。==FastCGI致力于减少Web服务器**与**[**CGI**](http://zh.wikipedia.org/wiki/CGI)[**程式**](http://zh.wikipedia.org/wiki/%E7%A8%8B%E5%BC%8F)**之间互动的开销，从而使**[**服务器**](http://zh.wikipedia.org/wiki/%E4%BC%BA%E6%9C%8D%E5%99%A8)**可以同时处理更多的Web**请求==。与为每个请求创建一个新的进程不同，FastCGI使用持续的进程来处理一连串的请求。这些进程由FastCGI进程管理器管理，而不是web服务器。 
+> 快速通用网关接口（Fast Co mmon Gateway Interface／FastCGI）是[通用网关接口](http://zh.wikipedia.org/wiki/%E9%80%9A%E7%94%A8%E7%BD%91%E5%85%B3%E6%8E%A5%E5%8F%A3)（CGI）的改进，描述了客户端和服务器程序之间传输数据的一种标准。==FastCGI致力于减少Web服务器**与**[**CGI**](http://zh.wikipedia.org/wiki/CGI)[**程式**](http://zh.wikipedia.org/wiki/%E7%A8%8B%E5%BC%8F)**之间互动的开销，从而使**[**服务器**](http://zh.wikipedia.org/wiki/%E4%BC%BA%E6%9C%8D%E5%99%A8)**可以同时处理更多的Web**请求==。与为每个请求创建一个新的进程不同，FastCGI使用持续的进程来处理一连串的请求。这些进程由FastCGI进程管理器管理，而不是web服务器。 
 
 **fastCGI与CGI的区别:**
 
@@ -524,7 +524,7 @@ Nginx
      - 打印pt的值: "abc"
     ```
 
-         
+    ​     
 
 =======
 [TOC]
@@ -846,7 +846,7 @@ Nginx
 
    ![1539853472802](assets/1539853472802.png)
 
-##复习
+## 复习
 
 Nginx
 
@@ -1052,7 +1052,7 @@ Nginx
      - 打印pt的值: "abc"
     ```
 
-         
+    ​     
 
 >>>>>>> 90ec3a4511a0cdf137e7775c31d0a4e371431fa6
 http://tool.oschina.net/

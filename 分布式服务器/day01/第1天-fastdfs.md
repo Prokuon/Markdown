@@ -213,7 +213,7 @@
    base_path=/home/yuqing/fastdfs
    ```
 
-2. storage 配置文件
+2. storage 配置文件  
 
    ```shell
    # 当前存储节点对应的主机属于哪一个组

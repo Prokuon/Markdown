@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 ## 1. 文件上传下载流程
 
 1. 文件上传流程
@@ -264,9 +265,9 @@
    | pv            | 文件下载量，默认值为0，下载一次加1 |
 
    ```mysql
-   CREATE TABLE user_file_list (
+    CREATE TABLE user_file_list (
        user VARCHAR (128) NOT NULL,
-       md5 VARCHAR (200) NOT NULL,
+       md5 VARCHAR (200) NOT NULL, 
        createtime VARCHAR (128),
        filename VARCHAR (128),
        shared_status INT,
@@ -335,7 +336,7 @@
         }
         ```
 
-      - fastcgi如何接收数据
+      - fastcgi如何接收数据  
 
         ```shell
         # 启动, 通过spawn-fcgi启动
