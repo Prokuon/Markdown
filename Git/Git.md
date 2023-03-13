@@ -141,6 +141,7 @@ Git 的默认编辑器，建议使用默认的 Vim 编辑器，然后点击下�
 ### 3.4 添加暂存区
 
 #### 3.4.1 将工作区的文件添加到暂存区
+
 基本语法：`git add 文件名`
 
 ![img](assets/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA55Sf5ZG95piv5pyJ5YWJ55qE,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center-165252162346216.png)
